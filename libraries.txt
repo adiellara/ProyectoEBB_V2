@@ -1,0 +1,16 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+DHT sensor library
+Servo
+
+DHT sensor library for ESPx
+PubSubClient
+ESP32Servo
+TM1637
+Adafruit NeoPixel
+FireBase32
+LiquidCrystal I2C
+LiquidCrystal
+LiquidCrystal_I2C_UTF8
